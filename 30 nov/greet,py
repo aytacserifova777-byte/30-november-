@@ -1,0 +1,3 @@
+students =["Aysel","Murad","Leyla","Elvin","Nigar"]
+for student in students:
+    print (f"salam,{student}!")
